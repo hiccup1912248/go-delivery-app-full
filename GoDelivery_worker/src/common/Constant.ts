@@ -1,0 +1,1 @@
+export const UPDATE_INTERVAL = 5000;
